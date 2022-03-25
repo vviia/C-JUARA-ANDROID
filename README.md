@@ -1,1 +1,3 @@
-### latihan-todo list
+to-do list - octobervna
+
+weather - viamadeline
